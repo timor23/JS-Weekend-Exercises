@@ -10,5 +10,3 @@ function accum(str) {
     }
     return ret;
 }
-
-console.log(accum('Timor'));
